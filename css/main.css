@@ -1,0 +1,16 @@
+body {
+    font-family: Arial;
+}
+
+h1 {
+    color: black;
+}
+
+.hey {
+    color: red;
+}
+
+canvas {
+    border: black solid 1px;
+    background-color: #66281A;
+}
